@@ -1,0 +1,6 @@
+{
+  "name": "Вид — L'Aspetto Verbale Russo (800+ Esercizi)",
+  "description": "Piattaforma interattiva per lo studio dell'aspetto verbale russo (НСВ / СВ) basata sul volume di L.G. Abu Lafia, con 801 esercizi commentati, modalità accessibile DSA, teoria e tabelle sinottiche.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
